@@ -1,2 +1,2 @@
 # Hello-World
-This is a Basic HTML program.
+This is a basic HTML program.
